@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="yellow">#FFE66E</color>
+    <color name="lightGreen">#a0ef9a</color>
+    <color name="pink">#ffaedf</color>
+    <color name="lightPurple">#d7afff</color>
+    <color name="skyblue">#9edfff</color>
+    <color name="gray">#e0e0e0</color>
+    <color name="red">#DB4848</color>
+    <color name="blue">#8C9EFF</color>
+    <color name="greenlight">#96D162</color>
+    <color name="notgreen">#EA80FC</color>
+
+    //error veren renkleri mecbur buraya ekledim
+
+    <color name="purple_500">#9932CC</color>
+    <color name="purple_700">#8B008B</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="teal_200">#008080</color>
+
+    <color name="teal_700">#008080</color>
+    <color name="black">#000000</color>
+
+    <color name="purple_200">#800080</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="light_blue_900">#FF01579B</color>
+    <color name="light_blue_A200">#FF40C4FF</color>
+    <color name="light_blue_A400">#FF00B0FF</color>
+    <color name="black_overlay">#66000000</color>
+
+</resources>
+
